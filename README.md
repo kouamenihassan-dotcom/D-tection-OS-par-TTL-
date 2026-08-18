@@ -1,4 +1,4 @@
-```markdown
+
 # Projet 02 - Détection de Système d'Exploitation par TTL
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -157,11 +157,11 @@ fi
 
 **Hassan KHASSAN**
 
-- 🔗 [LinkedIn](https://linkedin.com/in/votre-profil)
-- 🐙 [GitHub](https://github.com/votre-username)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kouameni-hassan-1062233bb?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- 🐙 [GitHub](https://github.com/kouamenihassan-dotcom)
 
 
 
 ⭐ N'hésitez pas à mettre une étoile si ce projet vous a été utile !
-```
+
 
